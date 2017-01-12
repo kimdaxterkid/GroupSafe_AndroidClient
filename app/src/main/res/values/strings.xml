@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Group Safe</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don\'t have an account? Signup!</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="join">Join</string>
+    <string name="signup">Signup</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="join_group">Join a Group</string>
+    <string name="create_group">Create a Group</string>
+    <string name="leave_group">Leave Group</string>
+
+    <string name="create_account">CREATE AN ACCOUNT</string>
+    <string name="group_name_to_create">ENTER A GROUP NAME TO CREATE</string>
+    <string name="group_name_to_join">ENTER A GROUP NAME TO JOIN</string>
+    <string name="would_leave_group">WOULD YOU LIKE TO LEAVE THE GROUP?</string>
+
+    <string name="group_name">Group Name</string>
+    <string name="group_vicinity">Group Vicinity (in meters)</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+
+    <string name="call">Call</string>
+    <string name="text">Text</string>
+    <string name="promote">Promote to Group Leader</string>
+    <string name="kick">Kick from Group</string>
+</resources>

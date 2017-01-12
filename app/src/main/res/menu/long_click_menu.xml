@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/promote"
+        android:id="@+id/promotion"/>
+    <item
+        android:title="@string/kick"
+        android:id="@+id/banishment"/>
+</menu>
